@@ -11,11 +11,7 @@ This project demonstrates advanced scroll animations, timeline control, and high
 ## 🚀 Demo
 
 🎥 Demo Video:  
-https://github.com/sanjeevnikumari/react-GSAP-scroll-trigger/assets/ - Google Chrome 2026-03-01 00-24-36.mp4
-
-*(Replace with your actual demo link if needed)*
-
----
+https://github.com/sanjeevnikumari/react-GSAP-scroll-trigger/assets/Google Chrome 2026-03-01 00-24-36.mp4
 
 ## 📸 Preview
 
